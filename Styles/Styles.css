@@ -133,14 +133,69 @@ body{
     aspect-ratio: 3/4;
 }
 
-.images:hover img {
-  transform: scale(1.4);
-  border-radius: 10px;
-  box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+.img-1:hover img {
+    transform: scale(2.5) translateX(45%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+}
+
+.img-2:hover img {
+    transform: scale(2.5) translate(15%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
 
 .img-3:hover img {
-  transform: scale(1.1);
+    transform: scale(1.4) translate(-30%);
+    border-radius: 5px;
+}
+
+.img-4:hover img {
+    transform: scale(2.5) translateX(45%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+}
+
+.img-5:hover img {
+    transform: scale(2.5) translate(15%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+}
+
+.img-6:hover img {
+    transform: scale(2.5) translate(45%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+}
+
+.img-7:hover img {
+    transform: scale(2.5) translate(15%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+}
+
+.img-8:hover img {
+    transform: scale(2.5) translate(-15%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+}
+
+.img-9:hover img {
+    transform: scale(2.5) translate(-55%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+}
+
+.img-10:hover img {
+    transform: scale(2.5) translate(45%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+}
+
+.img-11:hover img {
+    transform: scale(2.5) translate(15%);
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
 
 .header-text{
@@ -153,4 +208,206 @@ body{
     color: white !important;
     font-weight: 400;
     display: inline-block;
+}
+
+@media (max-width: 1000px) {
+    .img-1:hover img {
+        transform: scale(3.3) translateX(45%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-2:hover img {
+        transform: scale(3.3) translate(15%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-3:hover img {
+        transform: scale(1.8) translate(-30%);
+        border-radius: 5px;
+    }
+
+    .img-4:hover img {
+        transform: scale(3.3) translateX(45%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-5:hover img {
+        transform: scale(3.3) translate(15%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-6:hover img {
+        transform: scale(3.3) translate(45%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-7:hover img {
+        transform: scale(3.3) translate(15%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-8:hover img {
+        transform: scale(3.3) translate(-15%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-9:hover img {
+        transform: scale(3.3) translate(-45%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-10:hover img {
+        transform: scale(3.3) translate(45%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-11:hover img {
+        transform: scale(3.3) translate(15%);
+        border-radius: 5px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+}
+
+@media (max-width: 766px) {
+    .img-1:hover img {
+        transform: scale(5) translateX(30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-2:hover img {
+        transform: scale(5) translate(10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-3:hover img {
+        transform: scale(2.2) translate(-20%);
+    }
+
+    .img-4:hover img {
+        transform: scale(5) translateX(30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-5:hover img {
+        transform: scale(5) translate(10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-6:hover img {
+        transform: scale(5) translate(30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-7:hover img {
+        transform: scale(5) translate(10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-8:hover img {
+        transform: scale(5) translate(-10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-9:hover img {
+        transform: scale(5) translate(-30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-10:hover img {
+        transform: scale(5) translate(30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-11:hover img {
+        transform: scale(5) translate(10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+}
+
+@media (max-width: 450px) {
+    .img-1:hover img {
+        transform: scale(5) translateX(30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-2:hover img {
+        transform: scale(5) translate(10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-3:hover img {
+        transform: scale(2.2) translate(-20%);
+    }
+
+    .img-4:hover img {
+        transform: scale(5) translateX(30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-5:hover img {
+        transform: scale(5) translate(10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-6:hover img {
+        transform: scale(5) translate(30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-7:hover img {
+        transform: scale(5) translate(10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-8:hover img {
+        transform: scale(5) translate(-10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-9:hover img {
+        transform: scale(5) translate(-30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-10:hover img {
+        transform: scale(5) translate(30%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+    .img-11:hover img {
+        transform: scale(5) translate(10%);
+        border-radius: 2px;
+        box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
+    }
+
+
 }
