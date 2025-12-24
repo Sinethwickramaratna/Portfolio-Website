@@ -13,7 +13,7 @@ body{
     overflow: hidden;
 }
 
-.video-bg > video{
+.video-bg > img{
     height: 100%;
     width: 100%;
     object-fit: cover;
@@ -153,4 +153,5 @@ body{
     color: white !important;
     font-weight: 500;
     
+
 }
