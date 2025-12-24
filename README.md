@@ -71,7 +71,7 @@ Custom media queries ensure that the design gallery and animations adapt smoothl
 
 - Email: sinethwickramaratna@gmail.com
 - LinkedIn: [linkedin.com/in/sineth-wickramaratna](https://linkedin.com/in/sineth-wickramaratna)
-- GitHub: (Add your GitHub profile link here)
+- GitHub: [github.com/Sinethwickramaratna](https://github.com/Sinethwickramaratna)
 
 © 2025 Sineth Wickramaratna  
 All rights reserved.
