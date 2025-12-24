@@ -57,7 +57,7 @@ body{
 
 .name{
     font-family: "Antonio";
-    font-size: 4rem !important;
+    font-size: clamp(2.5rem, 4.5vw, 7rem) !important;
 }
 
 .discription{
@@ -155,3 +155,4 @@ body{
     
 
 }
+
