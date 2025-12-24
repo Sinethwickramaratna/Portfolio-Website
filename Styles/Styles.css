@@ -134,13 +134,13 @@ body{
 }
 
 .img-1:hover img {
-    transform: scale(2.5) translateX(45%);
+    transform: scale(2.5) translateX(55%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
 
 .img-2:hover img {
-    transform: scale(2.5) translate(15%);
+    transform: scale(2.5) translate(25%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
@@ -151,31 +151,31 @@ body{
 }
 
 .img-4:hover img {
-    transform: scale(2.5) translateX(45%);
+    transform: scale(2.5) translateX(55%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
 
 .img-5:hover img {
-    transform: scale(2.5) translate(15%);
+    transform: scale(2.5) translate(25%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
 
 .img-6:hover img {
-    transform: scale(2.5) translate(45%);
+    transform: scale(2.5) translate(55%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
 
 .img-7:hover img {
-    transform: scale(2.5) translate(15%);
+    transform: scale(2.5) translate(25%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
 
 .img-8:hover img {
-    transform: scale(2.5) translate(-15%);
+    transform: scale(2.5) translate(-25%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
@@ -187,13 +187,13 @@ body{
 }
 
 .img-10:hover img {
-    transform: scale(2.5) translate(45%);
+    transform: scale(2.5) translate(55%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
 
 .img-11:hover img {
-    transform: scale(2.5) translate(15%);
+    transform: scale(2.5) translate(25%);
     border-radius: 5px;
     box-shadow: 2px 1px 5px rgba(0,0,0,0.6);
 }
